@@ -14,7 +14,7 @@ In my Nashville Software School Data Analytics course, our four-person team used
 
 **Myself:**   Key contributions: Created CTE to alias the column names, to standardize the otherwise mis-matched (and confusing) column names between the two tables. More details are in the .sql file comments. I also created specific recommendations based on genre.  
 
-![Genre Chart](\assets/genre_slide.PNG)
+![Genre Chart](/assets/genre_slide.png)
 
 <br>
 
